@@ -1,0 +1,6 @@
+gallery.beans
+gallery.database.entities
+gallery.enums
+gallery.images
+gallery.servlets
+org.netbeans.rest.application.config
