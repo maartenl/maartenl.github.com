@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="48" passed="48">
+  <reporter-output>
+  </reporter-output>
+  <suite name="karchangame" duration-ms="1229" started-at="2012-04-16T22:06:21Z" finished-at="2012-04-16T22:06:23Z">
+    <groups>
+    </groups>
+    <test name="TestNG tests" duration-ms="1229" started-at="2012-04-16T22:06:21Z" finished-at="2012-04-16T22:06:23Z">
+      <class name="mmud.testing.tests.PrivateBeanTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="46" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUpClass" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="createMailItem()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="createMailItem" duration-ms="60" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- createMailItem -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createMailItemError1()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="createMailItemError1" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- createMailItemError1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createMailItemError2()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="createMailItemError2" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- createMailItemError2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="createSecondMailItem()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="createSecondMailItem" duration-ms="3" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- createSecondMailItem -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deleteFamilyvalues()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="deleteFamilyvalues" duration-ms="3" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- deleteFamilyvalues -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="deleteMail()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="deleteMail" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- deleteMail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="deleteMailNotFound()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="deleteMailNotFound" duration-ms="22" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- deleteMailNotFound -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="deleteMailNotYours()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="deleteMailNotYours" duration-ms="2" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- deleteMailNotYours -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getMail()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="getMail" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- getMail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getMailDeleted()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="getMailDeleted" duration-ms="2" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- getMailDeleted -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getMailDoesnotExist()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="getMailDoesnotExist" duration-ms="2" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- getMailDoesnotExist -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getMailSomeoneElse()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="getMailSomeoneElse" duration-ms="2" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- getMailSomeoneElse -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="hasNewMail()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="hasNewMail" duration-ms="2" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- hasNewMail -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="hasNoNewMail()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="hasNoNewMail" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- hasNoNewMail -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="listMail()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="listMail" duration-ms="2" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- listMail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="listMailAuthenticate1()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="listMailAuthenticate1" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- listMailAuthenticate1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="listMailAuthenticate2()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="listMailAuthenticate2" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- listMailAuthenticate2 -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="listMailAuthenticate3()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="listMailAuthenticate3" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- listMailAuthenticate3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="listMailEmpty()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="listMailEmpty" duration-ms="2" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- listMailEmpty -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="newCharacterSheet()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="newCharacterSheet" duration-ms="84" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- newCharacterSheet -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="newFamilyvalues()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="newFamilyvalues" duration-ms="2" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- newFamilyvalues -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="newMail()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="newMail" duration-ms="2" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- newMail -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="newMailToBot()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="newMailToBot" duration-ms="2" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- newMailToBot -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="newMailToUnknownUser()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="newMailToUnknownUser" duration-ms="2" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- newMailToUnknownUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="updateCharacterSheet()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="updateCharacterSheet" duration-ms="156" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- updateCharacterSheet -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="updateCharacterSheetOfSomebodyElse()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="updateCharacterSheetOfSomebodyElse" duration-ms="75" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- updateCharacterSheetOfSomebodyElse -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="updateCharacterSheetScriptInjection()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="updateCharacterSheetScriptInjection" duration-ms="120" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- updateCharacterSheetScriptInjection -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="updateFamilyvalues()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="updateFamilyvalues" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- updateFamilyvalues -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="updateFamilyvaluesNotFound()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="updateFamilyvaluesNotFound" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- updateFamilyvaluesNotFound -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDown" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:mmud.testing.tests.PrivateBeanTest@deaa2e]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- mmud.testing.tests.PrivateBeanTest -->
+      <class name="mmud.testing.tests.PublicBeanTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="2" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUpClass" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="charactersheetNotFoundTest()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="charactersheetNotFoundTest" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- charactersheetNotFoundTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="charactersheetTest()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="charactersheetTest" duration-ms="12" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- charactersheetTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="charactersheetsEmptyTest()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="charactersheetsEmptyTest" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- charactersheetsEmptyTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="charactersheetsTest()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="charactersheetsTest" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- charactersheetsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="fortunesEmptyTest()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="fortunesEmptyTest" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- fortunesEmptyTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="fortunesTest()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="fortunesTest" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- fortunesTest -->
+        <test-method status="PASS" signature="guildsEmptyTest()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="guildsEmptyTest" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- guildsEmptyTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="guildsTest()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="guildsTest" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- guildsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="hello()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="hello" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- hello -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="newsEmptyTest()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="newsEmptyTest" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- newsEmptyTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="newsTest()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="newsTest" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- newsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="statusEmptyTest()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="statusEmptyTest" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- statusEmptyTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="statusTest()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="statusTest" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- statusTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="whoEmptyTest()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="whoEmptyTest" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- whoEmptyTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="whoTest()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="whoTest" duration-ms="1" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- whoTest -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDownClass" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDownClass -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.PublicBeanTest@76e4b8]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:23Z" finished-at="2012-04-16T22:06:23Z">
+        </test-method> <!-- tearDown -->
+      </class> <!-- mmud.testing.tests.PublicBeanTest -->
+      <class name="mmud.testing.tests.database.entities.CharacterInfoTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:mmud.testing.tests.database.entities.CharacterInfoTest@1a1f05f]" name="setUpClass" is-config="true" duration-ms="7" started-at="2012-04-16T22:06:21Z" finished-at="2012-04-16T22:06:21Z">
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.database.entities.CharacterInfoTest@1a1f05f]" name="setUp" is-config="true" duration-ms="2" started-at="2012-04-16T22:06:21Z" finished-at="2012-04-16T22:06:21Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkHomepageurlValidationTest()[pri:0, instance:mmud.testing.tests.database.entities.CharacterInfoTest@1a1f05f]" name="checkHomepageurlValidationTest" duration-ms="347" started-at="2012-04-16T22:06:21Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- checkHomepageurlValidationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.database.entities.CharacterInfoTest@1a1f05f]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="checkImageurlAndHomepageurlValidationTest()[pri:0, instance:mmud.testing.tests.database.entities.CharacterInfoTest@1a1f05f]" name="checkImageurlAndHomepageurlValidationTest" duration-ms="72" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- checkImageurlAndHomepageurlValidationTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.database.entities.CharacterInfoTest@1a1f05f]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.database.entities.CharacterInfoTest@1a1f05f]" name="tearDown" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="checkImageurlValidationTest()[pri:0, instance:mmud.testing.tests.database.entities.CharacterInfoTest@1a1f05f]" name="checkImageurlValidationTest" duration-ms="51" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- checkImageurlValidationTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.database.entities.CharacterInfoTest@1a1f05f]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.database.entities.CharacterInfoTest@1a1f05f]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:mmud.testing.tests.database.entities.CharacterInfoTest@1a1f05f]" name="setUp" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="checkUrlValidationTest()[pri:0, instance:mmud.testing.tests.database.entities.CharacterInfoTest@1a1f05f]" name="checkUrlValidationTest" duration-ms="53" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- checkUrlValidationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:mmud.testing.tests.database.entities.CharacterInfoTest@1a1f05f]" name="tearDown" is-config="true" duration-ms="0" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:mmud.testing.tests.database.entities.CharacterInfoTest@1a1f05f]" name="tearDownClass" is-config="true" duration-ms="1" started-at="2012-04-16T22:06:22Z" finished-at="2012-04-16T22:06:22Z">
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- mmud.testing.tests.database.entities.CharacterInfoTest -->
+    </test> <!-- TestNG tests -->
+  </suite> <!-- karchangame -->
+</testng-results>
