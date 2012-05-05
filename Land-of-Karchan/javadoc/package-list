@@ -1,4 +1,6 @@
 mmud
+mmud.commands
+mmud.database.entities.characters
 mmud.database.entities.game
 mmud.database.entities.web
 mmud.database.enums

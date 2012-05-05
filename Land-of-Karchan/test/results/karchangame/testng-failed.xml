@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [karchangame]">
+  <test name="TestNG tests(failed)" preserve-order="true">
+    <classes>
+      <class name="mmud.testing.tests.database.entities.PersonTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="tearDownClass"/>
+          <include name="setUpClass"/>
+        </methods>
+      </class> <!-- mmud.testing.tests.database.entities.PersonTest -->
+      <class name="mmud.testing.tests.PublicBeanTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUpClass"/>
+          <include name="setUp"/>
+          <include name="tearDownClass"/>
+        </methods>
+      </class> <!-- mmud.testing.tests.PublicBeanTest -->
+      <class name="mmud.testing.tests.database.entities.CharacterInfoTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUpClass"/>
+          <include name="tearDownClass"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- mmud.testing.tests.database.entities.CharacterInfoTest -->
+      <class name="mmud.testing.tests.PrivateBeanTest">
+        <methods>
+          <include name="updateFamilyvaluesNotFound"/>
+          <include name="tearDownClass"/>
+          <include name="updateFamilyvalues"/>
+          <include name="setUp"/>
+          <include name="setUpClass"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- mmud.testing.tests.PrivateBeanTest -->
+    </classes>
+  </test> <!-- TestNG tests(failed) -->
+</suite> <!-- Failed suite [karchangame] -->
