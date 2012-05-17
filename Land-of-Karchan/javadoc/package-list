@@ -1,5 +1,6 @@
 mmud
 mmud.commands
+mmud.commands.communication
 mmud.database.entities.characters
 mmud.database.entities.game
 mmud.database.entities.web
