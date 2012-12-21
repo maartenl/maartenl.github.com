@@ -1,8 +1,12 @@
 mmud
 mmud.commands
 mmud.commands.communication
+mmud.commands.guild
+mmud.commands.items
+mmud.commands.movement
 mmud.database.entities.characters
 mmud.database.entities.game
+mmud.database.entities.items
 mmud.database.entities.web
 mmud.database.enums
 mmud.exceptions
