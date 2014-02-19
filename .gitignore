@@ -11,7 +11,8 @@
 # Logs and databases #
 ######################
 *.log
-*.jar
+# commented out, wanted to commit releases
+#*.jar
 
 # OS generated files #
 ######################
