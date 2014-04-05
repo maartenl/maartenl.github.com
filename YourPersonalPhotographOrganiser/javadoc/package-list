@@ -1,6 +1,12 @@
+gallery.admin
+gallery.admin.util
 gallery.beans
 gallery.database.entities
 gallery.enums
 gallery.images
+gallery.jobs
+gallery.jobs.add
+gallery.jobs.verify
 gallery.servlets
+gallery.util
 org.netbeans.rest.application.config
