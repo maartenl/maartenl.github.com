@@ -12,4 +12,6 @@ mmud.database.enums
 mmud.exceptions
 mmud.rest.services
 mmud.rest.webentities
+mmud.scripting
+mmud.scripting.entities
 org.netbeans.rest.application.config
