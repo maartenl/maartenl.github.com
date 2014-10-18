@@ -11,6 +11,7 @@ mmud.database.entities.web
 mmud.database.enums
 mmud.exceptions
 mmud.rest.services
+mmud.rest.services.admin
 mmud.rest.webentities
 mmud.scripting
 mmud.scripting.entities
