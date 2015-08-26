@@ -4,6 +4,7 @@ mmud.commands.communication
 mmud.commands.guild
 mmud.commands.items
 mmud.commands.movement
+mmud.database.entities
 mmud.database.entities.characters
 mmud.database.entities.game
 mmud.database.entities.items
@@ -13,6 +14,7 @@ mmud.exceptions
 mmud.rest.services
 mmud.rest.services.admin
 mmud.rest.webentities
+mmud.rest.webentities.admin
 mmud.scripting
 mmud.scripting.entities
 org.netbeans.rest.application.config
